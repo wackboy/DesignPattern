@@ -1,6 +1,4 @@
-package mode23.modefactory
-
-import kotlin.math.sin
+package mode23.mode_factory
 
 class SingletonFactory {
     companion object {

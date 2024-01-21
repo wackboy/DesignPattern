@@ -1,4 +1,4 @@
-package mode23.modefactory
+package mode23.mode_factory
 
 class ProductFactory {
 

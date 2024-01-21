@@ -1,6 +1,4 @@
-package mode23.modebuilder
-
-import princple5.dip.BMW
+package mode23.mode_builder
 
 class Director {
 

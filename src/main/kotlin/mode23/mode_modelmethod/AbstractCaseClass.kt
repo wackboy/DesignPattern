@@ -1,4 +1,4 @@
-package mode23.modemodelmethod
+package mode23.mode_modelmethod
 
 /**
  * 模版方法模式：就是在抽象类中定义一系列方法的执行顺序，且一般不被修该即fun

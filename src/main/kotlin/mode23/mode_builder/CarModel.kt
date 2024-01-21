@@ -1,4 +1,4 @@
-package mode23.modebuilder
+package mode23.mode_builder
 
 abstract class CarModel {
 

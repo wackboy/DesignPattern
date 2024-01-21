@@ -1,4 +1,4 @@
-package mode23.modebuilder
+package mode23.mode_builder
 
 /**
  * 建造者模式可以参考retrofit

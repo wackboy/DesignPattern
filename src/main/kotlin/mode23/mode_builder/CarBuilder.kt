@@ -1,6 +1,4 @@
-package mode23.modebuilder
-
-import princple5.dip.Benz
+package mode23.mode_builder
 
 abstract class CarBuilder {
 

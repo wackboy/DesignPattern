@@ -1,4 +1,4 @@
-package mode23.modedelegate
+package mode23.mode_delegate
 
 class GamePlayerProxy(
     name: String

@@ -1,4 +1,4 @@
-package mode23.modeabstractfactory
+package mode23.mode_abstractfactory
 
 interface HumanFactory {
 
