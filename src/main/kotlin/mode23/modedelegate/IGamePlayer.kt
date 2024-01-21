@@ -10,6 +10,10 @@ interface IGamePlayer {
 
 }
 
+interface IProxy {
+    fun count()
+}
+
 class GamePlayer(
     private val name: String
 ) : IGamePlayer {
